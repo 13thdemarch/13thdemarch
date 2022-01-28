@@ -1,4 +1,4 @@
-### ʕ •ᴥ• ʔAbout Me :
+### ʕ •ᴥ• ʔ About Me :
 Hello/こんにちは/大家好。My name is Alpherg.
 > Just a normal person living in Hanoi, Vietnam.
 
