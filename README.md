@@ -1,5 +1,5 @@
 ### ʕ •ᴥ• ʔ About Me :
-Hello/こんにちは/大家好。My name is Alpherg.
+Hello/こんにちは/大家好。My name is Touma.
 > Just a normal person living in Hanoi, Vietnam.
 
 About me:
