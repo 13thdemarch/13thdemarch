@@ -4,8 +4,9 @@ Hello/こんにちは/大家好。My name is Touma.
 
 About me:
 - Junior UX Designer.
-- Middle Hackintosher.
+- Hackintosher.
+- Genshin, League of Legends Player.
 
 Fun fact: I'm not a pro at Computer Science or ACPI Machine Language, but I love Hackintosh and researching about it.
 
-![Alpherg's GitHub stats](https://github-readme-stats.vercel.app/api?username=taruyato&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+![taruyato's GitHub stats](https://github-readme-stats.vercel.app/api?username=taruyato&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
