@@ -7,17 +7,16 @@ Hello/こんにちは/大家好。My name is Touma. I'm just a normal person liv
 - Junior UX Designer.
 - Junior Photographer.
 - Hackintosher.
-- Genshin Impact/League of Legends/PSO2 NGS/Crossfire player.
+- Genshin Impact/League of Legends player.
 
 **Current Devices**
 - 📱iPhone 13 Pro Max
-- 💻Dell G7 7588 (MacBookPro15,2)
+- 💻Macbook Pro M1 (MacBookPro17,1)
 - 🖥️HackBeast B660M Aorus Pro (iMacPro1,1)
 
 **Environment**
 - iOS 16.0.2
 - macOS 13
-- Windows 10 LTSC
 - Windows 11 Pro
 
 Fun fact: I'm not a pro at Computer Science or ACPI Machine Language, but I love Hackintosh and researching about it.
