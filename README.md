@@ -1,6 +1,6 @@
 ### ʕ •ᴥ• ʔ About Me :
 Hello/こんにちは/大家好。My name is Touma. I'm just a normal person living in Hanoi, Vietnam.
-> “Every journey has its final day. Don’t rush.”, Morax - The Geo Archon
+> “Every journey has its final day. Don’t rush”, Morax - The Geo Archon
 
 **About me**:
 - Unspecialized (You will understand what I mean if you have read The King's Avatar『全职高手』)
