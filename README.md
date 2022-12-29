@@ -1,13 +1,11 @@
 ### ʕ •ᴥ• ʔ About Me :
 Hello/こんにちは/大家好。My name is Touma. I'm just a normal person living in Hanoi, Vietnam.
-> “Every journey has its final day. Don’t rush”, Morax - The Geo Archon
 
 **About me**:
-- Unspecialized (You will understand what I mean if you have read The King's Avatar『全职高手』)
-- Junior UX Designer.
-- Junior Photographer.
+- 『物の哀れの旅行者』
+- UI/UX Designer.
+- Photographer.
 - Hackintosher.
-- Genshin Impact/League of Legends player.
 
 **Current Devices**
 - 📱iPhone 13 Pro Max
@@ -15,7 +13,7 @@ Hello/こんにちは/大家好。My name is Touma. I'm just a normal person liv
 - 🖥️HackBeast B660M Aorus Pro (iMacPro1,1)
 
 **Environment**
-- iOS 16.0.2
+- iOS 16
 - macOS 13
 - Windows 11 Pro
 
