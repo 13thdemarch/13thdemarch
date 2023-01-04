@@ -3,7 +3,8 @@ Hello/こんにちは/大家好。My name is Touma. I'm just a normal person liv
 
 **About me**:
 - 物の哀れの旅行者
-- UI/UX Designer.
+- Designer.
+- Developer.
 - Photographer.
 - Hackintosher.
 
