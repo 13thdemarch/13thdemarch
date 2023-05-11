@@ -11,7 +11,7 @@ Hello/こんにちは/大家好。My name is Touma. I'm just a normal person liv
 **Current Devices**
 - 📱iPhone 13 Pro Max
 - 💻Macbook Pro M1 (MacBookPro17,1)
-- 🖥️Hack Pro B660M Aorus Pro (MacPro7,1)
+- 🖥️iHack Pro B660M Aorus Pro (iMacPro1,1)
 
 **Environment**
 - iOS 16
