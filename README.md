@@ -11,7 +11,7 @@ Hello/こんにちは/大家好。My name is March 13th. I'm just a normal perso
 **Current Devices**
 - 📱iPhone 13 Pro Max
 - 💻Macbook Pro M1
-- 🖥️Hacktintosh B660M Aorus Pro
+- 🖥️Hackintosh B660M Aorus Pro
 
 **Environment**
 - iOS 17
