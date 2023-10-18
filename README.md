@@ -1,5 +1,5 @@
 ### ʕ •ᴥ• ʔ About Me :
-Hello/こんにちは/大家好。My name is March 13th. I'm just a normal person living in Hanoi, Vietnam.
+Hello/こんにちは/大家好。I am March 13th. I'm just a normal person living in Hanoi, Vietnam.
 
 **About me**:
 - Business Analyst
