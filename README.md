@@ -7,7 +7,6 @@ Hello/こんにちは/大家好。I am Ameki. Just a normal person who is living
 
 **Current Devices**
 - 📱iPhone 13 Pro Max
-- 💻Macbook Pro M1
 - 🖥️Hackintosh B660M Aorus Pro
 
 **Environment**
