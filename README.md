@@ -3,6 +3,7 @@ Hello/こんにちは/大家好。I am Ameki. Just a normal person who is living
 
 **About me**:
 - Business Analyst
+- UI/UX Designer
 - Photographer
 
 **Current Devices**
